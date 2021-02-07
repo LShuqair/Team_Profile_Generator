@@ -10,7 +10,7 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./lib/htmlRenderer");
 const template= require("./page.template");
-// const Engineer = require("./lib/Engineer");
+
 
 
 // Write code to use inquirer to gather information about the development team members,
